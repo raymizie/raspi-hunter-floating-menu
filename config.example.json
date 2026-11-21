@@ -1,0 +1,24 @@
+{
+  "title": "KAWALAN SISTEM & WI-FI",
+  "button_text": "⚙ MENU",
+  "screen_width": "auto",
+  "screen_height": "auto",
+  "button_x": "auto",
+  "button_y": 3,
+  "button_width": 78,
+  "button_height": 30,
+  "wifi_interface": "wlan0",
+  "keep_on_top_ms": 800,
+  "wifi_profiles": [
+    {
+      "label": "WiFi Rumah",
+      "con_name": "NAMA_WIFI_1",
+      "ssid": "NAMA_WIFI_1"
+    },
+    {
+      "label": "Hotspot Telefon",
+      "con_name": "NAMA_WIFI_2",
+      "ssid": "NAMA_WIFI_2"
+    }
+  ]
+}

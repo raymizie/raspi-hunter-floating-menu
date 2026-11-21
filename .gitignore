@@ -1,0 +1,25 @@
+# Konfigurasi peribadi pengguna (jangan muat naik ke Git!)
+config.json
+
+# Log & fail sementara
+*.log
+*.tmp
+
+# Python cache & virtual environment
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Fail persekitaran & rahsia
+.env
+.env.*
+
+# Fail sistem / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
