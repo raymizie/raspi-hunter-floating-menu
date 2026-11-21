@@ -40,7 +40,7 @@ ssh PENGGUNA@ALAMAT_IP_RASPI
 
 ```bash
 sudo apt-get update && sudo apt-get install -y git
-git clone <URL_REPO_GIT_ANDA> ~/raspi-hunter-floating-menu
+git clone https://github.com/raymizie/raspi-hunter-floating-menu.git ~/raspi-hunter-floating-menu
 cd ~/raspi-hunter-floating-menu
 ```
 
